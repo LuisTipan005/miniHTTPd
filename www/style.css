@@ -1,0 +1,4 @@
+body { font-family: system-ui, sans-serif; background: #f4f6f8; color: #222; margin: 0; }
+main { max-width: 640px; margin: 3rem auto; padding: 0 1rem; text-align: center; }
+h1 { color: #1a5fb4; }
+img { border: 3px solid #1a5fb4; border-radius: 12px; }
